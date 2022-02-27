@@ -1,4 +1,3 @@
-
 from os import system
 from Função import *
 from Função2 import *
@@ -89,6 +88,4 @@ while True:
   if op == 9:
     system('python calculadora.py')
     break
-  if op == 17394:
-    sexo()
   break
